@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robertDinca2003.github.io/static/css/main.ea4bebbd.css",
+    "main.js": "/robertDinca2003.github.io/static/js/main.9d793a53.js",
+    "static/js/787.ba5385e8.chunk.js": "/robertDinca2003.github.io/static/js/787.ba5385e8.chunk.js",
+    "static/media/Blue-sunny-sky.jpeg": "/robertDinca2003.github.io/static/media/Blue-sunny-sky.b1b4150fd24a94bdfa06.jpeg",
+    "index.html": "/robertDinca2003.github.io/index.html",
+    "main.ea4bebbd.css.map": "/robertDinca2003.github.io/static/css/main.ea4bebbd.css.map",
+    "main.9d793a53.js.map": "/robertDinca2003.github.io/static/js/main.9d793a53.js.map",
+    "787.ba5385e8.chunk.js.map": "/robertDinca2003.github.io/static/js/787.ba5385e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea4bebbd.css",
+    "static/js/main.9d793a53.js"
+  ]
+}
